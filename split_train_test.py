@@ -84,15 +84,3 @@ if __name__ == '__main__':
         quit()
 
     image_dir_train_test_split(param[1], param[2], train_size=float(param[3]))
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
